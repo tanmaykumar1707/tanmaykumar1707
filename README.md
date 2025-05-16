@@ -1,6 +1,39 @@
 # 💫 About Me:
 Java Spring Boot Backend Developer.<br>Tech Enthiuast<br>NITIAN<br>Gold Medalist (Masters)
 
+## Backend Developer Experience
+
+- **Backend Development** with strong expertise in **Java 17** and **Spring Boot 3+**
+- Proficient in **Spring Security**, **Spring Data JPA**, **Spring WebFlux**, and **Spring Cloud**
+- Designed and developed **Microservices** architectures with secure and scalable communication
+- Cloud deployment experience using **AWS** services like **EC2** and **ECS**
+- Integrated **CI/CD pipelines** using **GitHub Actions** and **Jenkins**
+- Containerization with **Docker** and orchestration with **Kubernetes**
+- Observability and monitoring using:
+  - **Prometheus**, **Grafana**, **Loki**, **Tempo**
+  - **Splunk**, **Alloy**, **Honeycomb**
+- Experience with **SQL** databases like **Aurora PostgreSQL** and **Oracle DB**
+- Developed APIs using both **RESTful** and **GraphQL** interfaces
+- Implemented **Circuit Breaker** and **Rate Limiting** for fault tolerance and API stability
+- Familiar with **Linux OS**:
+  - Shell scripting for automation
+  - Scheduled tasks using **cron jobs**
+- Strong foundation in **DSA** and **OOPs**, with practical use of design patterns:
+  - **Factory**, **Singleton**, **Builder**, etc.
+
+---
+
+## Additional Hands-on Experience
+
+- **ReactJS**
+- **JavaScript**
+- **Python**
+- **MongoDB (NoSQL)**
+- **RabbitMQ**
+- **Kubernetes**
+- Always open to learning and integrating new technologies
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanmay.bhadani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmaykumar1707) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tanmay.bhadani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanmaykumar950@gmail.com) 
